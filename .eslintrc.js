@@ -12,6 +12,7 @@ module.exports = {
   plugins: ['vue'],
   // add your custom rules here
   rules: {
+    'vue/require-prop-types': [0],
     'vue/html-indent': ['error', 'tab'],
     'vue/max-attributes-per-line': [0],
     'vue/html-self-closing': [

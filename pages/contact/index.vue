@@ -1,5 +1,5 @@
 <template>
-	<main class="page page--home">
+	<main class="page page--contact">
 		
 	</main>
 </template>
@@ -16,7 +16,7 @@ export default {
 @import '~tools';
 
 .page {
-	&--home {
+	&--contact {
 		// specific home styles
 	}
 }

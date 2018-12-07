@@ -1,5 +1,5 @@
 <template>
-	<main class="page page--home">
+	<main class="page page--merch">
 		
 	</main>
 </template>
@@ -16,7 +16,7 @@ export default {
 @import '~tools';
 
 .page {
-	&--home {
+	&--merch {
 		// specific home styles
 	}
 }
