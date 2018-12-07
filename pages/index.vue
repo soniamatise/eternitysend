@@ -2,7 +2,7 @@
 
 	<main class="page page--home">
 		<section class="intro">
-			<henris-nuxt />
+			<!-- <henris-nuxt /> -->
 		</section>
 	</main>
 
